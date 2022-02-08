@@ -1,0 +1,15 @@
+# node
+node_modules
+
+# misc files
+*.rar
+*.log
+*.zip
+.~lock*
+
+# thumb
+.DS_Store
+.DS_Store?
+Thumbs.db
+.idea/
+.vscode/*
